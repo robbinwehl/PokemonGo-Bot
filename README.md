@@ -43,6 +43,7 @@ What we from the Developer team get back.<br>
 Per 150 RPM Key we get: 1,18500 € <br>
 Per 500 RPM Key we get: 4,18500 € <br>
 Per 1.000 RPM Key we get: 8,98500 € <br>
+
 Credits
 -------------------
 FeroxRev - https://github.com/FeroxRev/Pokemon-Go-Rocket-API<br>
@@ -52,6 +53,7 @@ Logxn - Continuing this project and keeping it alive!  <br>
 MTK4355 - Doing a really really good job!<br>
 Xelwon - Also a big part of the team! <br>
 Quarthy - For doing some great developer work <br>
+Leech - Just did the Dutch translation <br>
 
 
 Discord Link : https://discord.gg/tEUuRXJ<br>
